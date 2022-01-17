@@ -6,7 +6,7 @@ I develop in Python, Django and VueJS, and htmx on occasion. Shell script rarely
 
 <a href="https://www.youtube.com/regis-do-python"><img alt="youtube" src="https://img.shields.io/badge/youtube-e4505f?style=for-the-badge&logo=youtube&logoColor=white"/></a>
 
-<img align="right" src="fcf7fd0c619bb87706533079240915f3.gif" width="500px">
+<img align="right" src="fcf7fd0c619bb87706533079240915f3.gif" width="400px">
 
 ### Contact
 
