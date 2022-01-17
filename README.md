@@ -1,10 +1,12 @@
 ### Regis do Python 👋
 
-- 😄 I’m Pythonist and youtuber.
-
 I develop in Python, Django and VueJS, and htmx on occasion. Shell script rarely.
 
-  <a href="https://www.youtube.com/regis-do-python"><img alt="youtube" src="https://img.shields.io/badge/youtube-e4505f?style=for-the-badge&logo=youtube&logoColor=white"/></a>
+- 😄 I’m Pythonist and youtuber.
+
+<a href="https://www.youtube.com/regis-do-python"><img alt="youtube" src="https://img.shields.io/badge/youtube-e4505f?style=for-the-badge&logo=youtube&logoColor=white"/></a>
+
+<img align="right" src="fcf7fd0c619bb87706533079240915f3.gif" width="500px">
 
 ### Contact
 
@@ -21,6 +23,7 @@ I develop in Python, Django and VueJS, and htmx on occasion. Shell script rarely
 
 ### Stacks
 
+
 <p>
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img alt="Django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
@@ -33,6 +36,7 @@ I develop in Python, Django and VueJS, and htmx on occasion. Shell script rarely
   <img alt="Docker" src="https://img.shields.io/badge/docker-1572B6.svg?&style=for-the-badge&logo=docker&logoColor=white"/>
   <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
 </p>
+
 
 ### Github Stats
 
